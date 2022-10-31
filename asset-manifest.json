@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bogus-website/static/css/main.073c9b0a.css",
+    "main.js": "/bogus-website/static/js/main.914e5d53.js",
+    "static/js/787.bf6695a3.chunk.js": "/bogus-website/static/js/787.bf6695a3.chunk.js",
+    "static/media/logo.svg": "/bogus-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bogus-website/index.html",
+    "main.073c9b0a.css.map": "/bogus-website/static/css/main.073c9b0a.css.map",
+    "main.914e5d53.js.map": "/bogus-website/static/js/main.914e5d53.js.map",
+    "787.bf6695a3.chunk.js.map": "/bogus-website/static/js/787.bf6695a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.914e5d53.js"
+  ]
+}
