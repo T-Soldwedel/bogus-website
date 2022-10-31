@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  font-size: 1.5rem;
+  width: 100%;
+  height: 100vh;
+}
+
+video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  object-fit: cover;
+  z-index: -2;
+}
+
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  background: rgba(0, 0, 0, 0.165);
+  z-index: -2;
+}
+
+.icon-arrow-down {
+width: 100%;
+  height: 2rem;
+  position: absolute;
+  bottom: 0;
+  align-self: center;
+  z-index: 999;
+  color: rgb(190, 187, 187);
+}
+
+.icon-arrow-down:hover {
+  height: 2.3rem;
+  position: absolute;
+  color: rgb(214, 211, 211);
+}

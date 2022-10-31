@@ -1,0 +1,26 @@
+#seperator {
+  width: 100%;
+  height: 40vh;
+  background-image: url(../images/P1032769.jpg);
+  background-size: cover;
+  background-position: 0 30%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#seperator2 {
+  width: 100%;
+  height: 40vh;
+  background-image: url(../images/Manfred\ Schmelzer\ 2.jpg);
+  background-size: cover;
+  background-position: 0 12%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#seperator3 {
+  width: 100%;
+  height: 40vh;
+  background-image: url(../images/Manfred\ Schmelzer\ 3.jpg);
+  background-size: cover;
+  background-position: 0 5%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

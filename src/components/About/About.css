@@ -1,0 +1,34 @@
+.about-section  {
+  padding-top: 4rem;
+}
+
+.about-section p {
+  align-self: center;
+}
+
+.about-flex {
+  gap: 3rem;
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 8rem;
+}
+
+.about-section h1 {
+  text-align: center;
+  font-size: clamp(1rem, 2vw, 1.5rem);
+  font-weight: 600;
+}
+
+@media all and (max-width: 992px) {
+  .about-flex {
+    padding: 4rem 1rem;
+  }
+}
+
+
+
+@media all and (max-width: 500px) {
+  .about-section  {
+    padding-top: 5rem;
+  }
+}

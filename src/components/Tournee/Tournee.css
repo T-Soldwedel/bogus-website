@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 3rem;
+}
+
+.termine-section {
+  width: 60vw;
+}
+
+.termine-section h1 {
+  padding-top: 3rem;
+  text-align: center;
+  font-size: clamp(1rem, 2vw, 1.5rem);
+  font-weight: 600;
+}
+
+.termine {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2rem;
+  margin-bottom: 5rem;
+}
+
+.termine h4 {
+  font-size: 1.1rem;
+  font-weight: 900;
+  padding: 1rem 0;
+}
+
+.termine p {
+  padding: 0.7rem 0;
+  font-size: clamp(0.8rem, 1.1vw, 2rem);
+}
+
+@media all and (max-width: 992px) {
+  .termine-section {
+    width: 90vw;
+  }
+}

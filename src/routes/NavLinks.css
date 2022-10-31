@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.navbar {
+  font-family: 'Raleway', sans-serif;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  height: 3.4rem;
+  background-color: rgba(9, 9, 9, 0.84);
+  padding-right: 2rem;
+  z-index: 3;
+}
+.navbar-brand .NavLink {
+  font-size: clamp(1.3rem, 3vw, 2rem);
+}
+
+#main_nav {
+  justify-content: flex-end;
+}
+
+.NavLink {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 900;
+  padding: 0 1.5rem;
+}
+
+.NavLink:hover {
+  color: rgb(171, 36, 36);
+}
+
+.NavLink:active {
+  color: rgb(255, 214, 9);
+}
+
+.navbar-brand {
+  font-family: "Courgette", cursive;
+  font-size: 2rem;
+  color: white;
+}
+
+.NavLink-show {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 900;
+  padding: 0 1.5rem;
+  color: black;
+}
+
+@media all and (min-width: 992px) {
+  .navbar .nav-item .dropdown-menu {
+    display: none;
+  }
+  .navbar .nav-item:hover .dropdown-menu {
+    display: block;
+  }
+  .navbar .nav-item .dropdown-menu {
+    margin-top: 0;
+  }
+}
+
+@media all and (max-width: 992px) {
+  .navbar {
+    height: fit-content;
+    background-color: rgba(9, 9, 9, 0.84);
+  }
+  .navbar-toggler {
+    background-color: white;
+    font-size: clamp(0.5rem, 2vw, 20px);
+  }
+}

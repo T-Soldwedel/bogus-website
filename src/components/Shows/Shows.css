@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+.shows-container {
+  background: url("https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg?w=2000")
+    center/cover;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 3rem;
+  width: 100%;
+  min-height: 92.5vh;
+}
+
+.shows-container img {
+  border-radius: 5px;
+  width: 50%;
+  object-fit: contain;
+}
+
+.shows-container h1 {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 1rem;
+  box-shadow: 0 3px 2px -2px gray;
+}
+
+.shows-container p {
+  font-size: clamp(0.8rem, 1.1vw, 2rem);
+  line-height: 1.8rem;
+  padding-top: 0.5rem;
+}
+
+.shows-flex-container {
+  display: flex;
+  background-color: rgba(224, 230, 231, 0.55);
+  margin: 2rem;
+  padding: 1.5rem;
+  gap: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 5px;
+}
+
+@media all and (max-width: 992px) {
+  .shows-container {
+    padding: 2rem;
+  }
+
+  .shows-container h1 {
+    margin-bottom: 1rem;
+  }
+
+  .shows-flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .shows-container img {
+    width: 100%;
+  }
+}
