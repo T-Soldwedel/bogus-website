@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/bogus-website/static/css/main.073c9b0a.css",
-    "main.js": "/bogus-website/static/js/main.914e5d53.js",
-    "static/js/787.bf6695a3.chunk.js": "/bogus-website/static/js/787.bf6695a3.chunk.js",
-    "static/media/logo.svg": "/bogus-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/bogus-website/static/css/main.42723d8b.css",
+    "main.js": "/bogus-website/static/js/main.e537f896.js",
+    "static/media/Homepagehintergrund.mp4": "/bogus-website/static/media/Homepagehintergrund.e3b87a873ba5586b0076.mp4",
+    "static/media/Wolgang von Wieding 2.jpg": "/bogus-website/static/media/Wolgang von Wieding 2.7cda9dacd2cbf166c3fa.jpg",
+    "static/media/Wolfgang von Wieding1.jpg": "/bogus-website/static/media/Wolfgang von Wieding1.d432ea850128d6b2593e.jpg",
+    "static/media/Sara Baerend.jpg": "/bogus-website/static/media/Sara Baerend.a7c34567b7dcd3e299bd.jpg",
+    "static/media/P1032320.jpg": "/bogus-website/static/media/P1032320.f6cf0728b903312d0c79.jpg",
+    "static/media/P1032280.jpg": "/bogus-website/static/media/P1032280.e073179ed5dc512da822.jpg",
+    "static/media/P1032352.jpg": "/bogus-website/static/media/P1032352.f4451cf51178fc942500.jpg",
+    "static/media/P1032259.jpg": "/bogus-website/static/media/P1032259.8de7575ddcc27dc17d2a.jpg",
+    "static/media/P1032301.jpg": "/bogus-website/static/media/P1032301.876f8dc611db53e36719.jpg",
+    "static/media/P1032325.jpg": "/bogus-website/static/media/P1032325.cc709d047c4e5d7122e2.jpg",
+    "static/media/Sara Baerend 5.jpg": "/bogus-website/static/media/Sara Baerend 5.c62e9ce14875ea472835.jpg",
+    "static/media/Martin Bogus 3.jpg": "/bogus-website/static/media/Martin Bogus 3.618fa277a6174637acd7.jpg",
+    "static/media/Martin Bogus 1.jpg": "/bogus-website/static/media/Martin Bogus 1.4e46c6229b85e2338cfe.jpg",
+    "static/media/P1032769.jpg": "/bogus-website/static/media/P1032769.7def79d7aecd1337b9eb.jpg",
+    "static/media/Manfred Schmelzer 3.jpg": "/bogus-website/static/media/Manfred Schmelzer 3.b321550e195a5df747d4.jpg",
+    "static/media/Manfred Schmelzer 2.jpg": "/bogus-website/static/media/Manfred Schmelzer 2.937ee04b546a997c2597.jpg",
+    "static/media/Martin Bogus 4.jpg": "/bogus-website/static/media/Martin Bogus 4.31168f68e3f754750153.jpg",
+    "static/media/Bundesarbeitsgemeinschaft.png": "/bogus-website/static/media/Bundesarbeitsgemeinschaft.4def875448c22f01a9c9.png",
+    "static/media/Neu Start Kultur.jpg": "/bogus-website/static/media/Neu Start Kultur.7afb88bbea512f5e1712.jpg",
+    "static/media/Kultur und Medien.jpg": "/bogus-website/static/media/Kultur und Medien.1e92449f469d55dd42e3.jpg",
     "index.html": "/bogus-website/index.html",
-    "main.073c9b0a.css.map": "/bogus-website/static/css/main.073c9b0a.css.map",
-    "main.914e5d53.js.map": "/bogus-website/static/js/main.914e5d53.js.map",
-    "787.bf6695a3.chunk.js.map": "/bogus-website/static/js/787.bf6695a3.chunk.js.map"
+    "main.42723d8b.css.map": "/bogus-website/static/css/main.42723d8b.css.map",
+    "main.e537f896.js.map": "/bogus-website/static/js/main.e537f896.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.914e5d53.js"
+    "static/css/main.42723d8b.css",
+    "static/js/main.e537f896.js"
   ]
 }
