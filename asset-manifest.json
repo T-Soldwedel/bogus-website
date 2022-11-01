@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bogus-website/static/css/main.c205b244.css",
-    "main.js": "/bogus-website/static/js/main.219c5e4c.js",
+    "main.css": "/bogus-website/static/css/main.896210d1.css",
+    "main.js": "/bogus-website/static/js/main.3f49d90d.js",
     "static/media/Homepagehintergrund.mp4": "/bogus-website/static/media/Homepagehintergrund.e3b87a873ba5586b0076.mp4",
     "static/media/Wolgang von Wieding 2.jpg": "/bogus-website/static/media/Wolgang von Wieding 2.7cda9dacd2cbf166c3fa.jpg",
     "static/media/Wolfgang von Wieding1.jpg": "/bogus-website/static/media/Wolfgang von Wieding1.d432ea850128d6b2593e.jpg",
@@ -23,11 +23,11 @@
     "static/media/Neu Start Kultur.jpg": "/bogus-website/static/media/Neu Start Kultur.7afb88bbea512f5e1712.jpg",
     "static/media/Kultur und Medien.jpg": "/bogus-website/static/media/Kultur und Medien.1e92449f469d55dd42e3.jpg",
     "index.html": "/bogus-website/index.html",
-    "main.c205b244.css.map": "/bogus-website/static/css/main.c205b244.css.map",
-    "main.219c5e4c.js.map": "/bogus-website/static/js/main.219c5e4c.js.map"
+    "main.896210d1.css.map": "/bogus-website/static/css/main.896210d1.css.map",
+    "main.3f49d90d.js.map": "/bogus-website/static/js/main.3f49d90d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c205b244.css",
-    "static/js/main.219c5e4c.js"
+    "static/css/main.896210d1.css",
+    "static/js/main.3f49d90d.js"
   ]
 }
