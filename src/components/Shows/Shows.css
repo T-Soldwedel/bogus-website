@@ -34,8 +34,10 @@
 
 .shows-flex-container {
   display: flex;
+  
   background-color: rgba(224, 230, 231, 0.55);
-  margin: 2rem;
+  width: 80%;
+  margin: 2rem auto;
   padding: 1.5rem;
   gap: 2rem;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
