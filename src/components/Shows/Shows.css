@@ -8,6 +8,7 @@
   padding: 2rem 3rem;
   width: 100%;
   min-height: 92.5vh;
+  justify-content: center;
 }
 
 .shows-container img {
