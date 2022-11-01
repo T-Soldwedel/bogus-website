@@ -14,8 +14,8 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<SharedLayout />}>
-          <Route index element={<Home />} />
+        <Route path="/bogus-website" element={<SharedLayout />}>
+          <Route path="/bogus-website" element={<Home />} />
           <Route path="gallery" element={<Gallery />} />
           <Route path="shows" element={<Shows />} />
           <Route path="shows/ladida" element={<Ladida />} />

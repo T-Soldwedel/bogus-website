@@ -10,7 +10,7 @@ const NavLinks = () => {
       <nav class="navbar navbar-expand-lg">
         <div class="container-fluid">
           <a class="navbar-brand" href="#A">
-            <NavLink className="NavLink" to="/" href="#1">
+            <NavLink className="NavLink" to="/bogus-website" href="#1">
               TrioMio
             </NavLink>
           </a>
@@ -28,7 +28,7 @@ const NavLinks = () => {
             <ul class="navbar-nav">
               <li class="nav-item active">
                 <a class="nav-link" href="#1">
-                  <NavLink className="NavLink" to="/">
+                  <NavLink className="NavLink" to="/bogus-website">
                     Home
                   </NavLink>
                 </a>
