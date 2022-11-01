@@ -1,9 +1,14 @@
 .about-section  {
-  padding-top: 4rem;
+  /* padding-top: 4rem; */
+}
+
+#about-id {
+  scroll-margin-top: 5rem;
 }
 
 .about-section p {
   align-self: center;
+  font-size: clamp(0.5rem, 2vw, 1.5rem);
 }
 
 .about-flex {
@@ -21,14 +26,6 @@
 
 @media all and (max-width: 992px) {
   .about-flex {
-    padding: 4rem 1rem;
-  }
-}
-
-
-
-@media all and (max-width: 500px) {
-  .about-section  {
-    padding-top: 5rem;
+    padding: 3rem 1rem;
   }
 }

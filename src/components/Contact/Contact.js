@@ -24,7 +24,7 @@ const Contact = () => {
               />
             </div>
 
-            <div class="col-md-6 mb-3">
+            <div id="lastNameFix" class="col-md-6 mb-3">
               <label for="exampleFormControlInput1" class="form-label">
                 Last Name
               </label>

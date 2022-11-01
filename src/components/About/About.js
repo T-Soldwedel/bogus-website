@@ -4,7 +4,7 @@ import "./About.css";
 const About = () => {
   return (
     <div id="about-id" className="about-section">
-      <h1>Wer sind TrioMio?</h1>
+      <h1 >Wer sind TrioMio?</h1>
       <div className="about-flex">
         <p>
           Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam

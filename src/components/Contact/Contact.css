@@ -1,6 +1,5 @@
 .contact-section {
   padding: 2rem 0;
-  font-size: 1.7vw;
 }
 
 .contact-section h1 {
@@ -19,11 +18,11 @@
 .contact-img-background input,
 .contact-img-background textarea {
   background-color: rgb(250, 250, 250);
-  font-size: 1vw;
+  font-size: clamp(0.5rem, 1.3vw, 2rem);
 }
 
 .message-container {
-  font-size: clamp(1rem, 1.3vw, 2rem); 
+  font-size: clamp(0.7rem, 1.3vw, 2rem);
   display: flex;
   flex-direction: column;
   width: 55%;
@@ -48,8 +47,7 @@
 .contact-section button {
   width: 140px;
   height: 45px;
-  font-size: clamp(.5rem, 1vw, 1.5rem);
-  text-transform: uppercase;
+  font-size: clamp(0.5rem, 1vw, 1.5rem);
   letter-spacing: 2.5px;
   font-weight: 500;
   color: #000;
@@ -112,6 +110,7 @@
 
   .contact-info-container {
     padding: 0.5rem;
+    padding-left: 0.8rem;
     font-size: 0.6rem;
   }
 
@@ -132,6 +131,10 @@
   }
 
   .contact-info-container {
-    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+  }
+
+  #lastNameFix {
+    margin-top: 1rem;
   }
 }
