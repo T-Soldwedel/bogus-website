@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bogus-website/static/css/main.f9d39dab.css",
-    "main.js": "/bogus-website/static/js/main.063f92d6.js",
+    "main.js": "/bogus-website/static/js/main.0039c2ee.js",
     "static/media/Homepagehintergrund.mp4": "/bogus-website/static/media/Homepagehintergrund.e3b87a873ba5586b0076.mp4",
     "static/media/Wolgang von Wieding 2.jpg": "/bogus-website/static/media/Wolgang von Wieding 2.7cda9dacd2cbf166c3fa.jpg",
     "static/media/Wolfgang von Wieding1.jpg": "/bogus-website/static/media/Wolfgang von Wieding1.d432ea850128d6b2593e.jpg",
@@ -24,10 +24,10 @@
     "static/media/Kultur und Medien.jpg": "/bogus-website/static/media/Kultur und Medien.1e92449f469d55dd42e3.jpg",
     "index.html": "/bogus-website/index.html",
     "main.f9d39dab.css.map": "/bogus-website/static/css/main.f9d39dab.css.map",
-    "main.063f92d6.js.map": "/bogus-website/static/js/main.063f92d6.js.map"
+    "main.0039c2ee.js.map": "/bogus-website/static/js/main.0039c2ee.js.map"
   },
   "entrypoints": [
     "static/css/main.f9d39dab.css",
-    "static/js/main.063f92d6.js"
+    "static/js/main.0039c2ee.js"
   ]
 }
