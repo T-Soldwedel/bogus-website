@@ -4,7 +4,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  max-width: 90%;
+  max-width: 70%;
   margin: 0 auto;
   gap: 15px;
 }
@@ -16,7 +16,7 @@
 }
 
 .galleryWrap .single {
-  width: 250px;
+  width: 330px;
   cursor: pointer;
 }
 
@@ -53,6 +53,7 @@
   opacity: 0.6;
   color: #fff;
   z-index: 9999;
+  font-size: 2rem;
 }
 
 .btnNext:hover,
@@ -95,9 +96,25 @@
   user-select: none; /* Standard syntax */
 }
 
-@media all and (max-width: 992px) {
-  .galleryWrap .single {
-    width: 330px;
-    cursor: pointer;
+@media all and (max-width: 1201px) {
+  .galleryWrap {
+    max-width: 90%;
   }
+
+  .galleryWrap .single {
+    width: 230px;
+  }
+
+}
+
+@media all and (max-width: 500px) {
+  .galleryWrap {
+    
+    max-width: 95%;
+  }
+
+  .galleryWrap .single {
+    width: 200px;
+  }
+
 }

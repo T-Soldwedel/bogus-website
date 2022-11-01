@@ -72,12 +72,11 @@ const NavLinks = () => {
                   </li>
                 </ul>
               </li>
-              {/* <a href="#contact-id">[testing. Jump to contact-id]</a> */}
               <li class="nav-item active">
                 <a class="nav-link" href="/#anchor-name">
                   <NavLink
                     className="NavLink"
-                    to="/#anchor-name" // Gives the name to url
+                    to="/#anchor-name"
                     href="/#anchor-name"
                   >
                     Contact
@@ -86,10 +85,9 @@ const NavLinks = () => {
               </li>
             </ul>
           </div>
-          {/* <a href="/#anchor-name"> */}
-          <a href={"document.getElementById('anchor-name').scrollIntoView(true)"}>
+          {/* <a href={"document.getElementById('anchor-name').scrollIntoView(true)"}>
             Jump
-          </a>
+          </a> */}
           
         </div>
       </nav>
